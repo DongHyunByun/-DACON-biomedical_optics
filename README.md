@@ -1,6 +1,6 @@
 # -DACON-biomedical_optics
 
-# 대회링크 : https://dacon.io/competitions/official/235608/overview/
+# https://dacon.io/competitions/official/235608/overview/
 
 1. 목적 : 현재 뇌전도 검사를 위해 전극을 머리에 찌르는 방법을 사용한다. 이를 대체하기 위해 빛을 응용하여 뇌내 성분검사를 한다.
 2. 데이터
